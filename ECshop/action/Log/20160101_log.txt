@@ -1,0 +1,67 @@
+
+系统运行日志&&日志时间：2016-01-01 13:41:56&&消息：companypay=167.5ssss---ssss  userShouldPay=217.5
+
+系统运行日志&&日志时间：2016-01-01 13:42:04&&消息：companypay=192.5ssss---ssss  userShouldPay=192.5
+
+系统运行日志&&日志时间：2016-01-01 15:47:29&&消息：companypay=347.5ssss---ssss  userShouldPay=397.5
+
+系统运行日志&&日志时间：2016-01-01 15:51:04&&消息：companypay=362.5ssss---ssss  userShouldPay=412.5
+
+系统运行日志&&日志时间：2016-01-01 15:55:39&&消息：1
+
+系统运行日志&&日志时间：2016-01-01 15:59:15&&消息：
+
+系统运行日志&&日志时间：2016-01-01 15:59:56&&消息：SELECT d.goodsid,d.num FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid  where orderid=58 
+
+系统运行日志&&日志时间：2016-01-01 15:59:56&&消息：
+
+系统运行日志&&日志时间：2016-01-01 16:01:13&&消息：SELECT d.goodsid,d.num FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid  where o.orderid=58 
+
+系统运行日志&&日志时间：2016-01-01 16:01:13&&消息：1
+
+系统运行日志&&日志时间：2016-01-01 16:52:34&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 16:53:59&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:39:28&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:39:32&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:39:36&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:42:18&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:42:21&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:42:24&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:42:52&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:42:57&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:43:01&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  0,5  
+
+系统运行日志&&日志时间：2016-01-01 17:44:22&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  5,5  
+
+系统运行日志&&日志时间：2016-01-01 17:44:27&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  10,5  
+
+系统运行日志&&日志时间：2016-01-01 17:44:32&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  15,5  
+
+系统运行日志&&日志时间：2016-01-01 17:44:44&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  20,5  
+
+系统运行日志&&日志时间：2016-01-01 17:46:34&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  5,5  
+
+系统运行日志&&日志时间：2016-01-01 17:46:39&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  10,5  
+
+系统运行日志&&日志时间：2016-01-01 17:46:48&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  15,5  
+
+系统运行日志&&日志时间：2016-01-01 17:46:53&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  20,5  
+
+系统运行日志&&日志时间：2016-01-01 17:48:29&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  5,5  
+
+系统运行日志&&日志时间：2016-01-01 17:48:33&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  10,5  
+
+系统运行日志&&日志时间：2016-01-01 17:48:37&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  15,5  
+
+系统运行日志&&日志时间：2016-01-01 17:48:39&&消息：修改的sql语句===SELECT o.orderid,o.money,o.orderstate,o.ordernum,o.ordertime,GROUP_CONCAT(gd.dpic) as picstr,gd.dname,g.gdname,COUNT(d.orderdetailid) AS dordernum FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid JOIN sh_store_goods_detail  gd ON d.goodsid=gd.detailid  JOIN sh_store_goods g ON gd.gdid=g.gdid WHERE userid=188 and o.delstate='N'  GROUP BY orderid  ORDER BY ordertime DESC LIMIT  20,5  
+

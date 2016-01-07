@@ -1,0 +1,453 @@
+
+系统运行日志&&日志时间：2015-12-30 11:59:36&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:00:41&&消息：sss
+
+系统运行日志&&日志时间：2015-12-30 12:00:42&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:01:58&&消息：sss
+
+系统运行日志&&日志时间：2015-12-30 12:01:58&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:06:12&&消息：sss
+
+系统运行日志&&日志时间：2015-12-30 12:06:12&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:06:12','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230120612809' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=undefined AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:06:12&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:10:16&&消息：sss
+
+系统运行日志&&日志时间：2015-12-30 12:10:16&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:10:16','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230121016394' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=undefined AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:10:16&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:13:33&&消息：sss188
+
+系统运行日志&&日志时间：2015-12-30 12:13:33&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:13:33','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230121333639' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=undefined AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:13:33&&消息：sssORDER_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:21:43&&消息：sss188
+
+系统运行日志&&日志时间：2015-12-30 12:21:43&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:21:43','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230122143450' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:21:43&&消息：sssORDERDETAIL_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:24:48&&消息：sss188
+
+系统运行日志&&日志时间：2015-12-30 12:24:48&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:24:48','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230122448851' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:24:48&&消息：详细INSERT INTO sh_store_order_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,38,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (undefine) and c.userid=188 
+
+系统运行日志&&日志时间：2015-12-30 12:24:48&&消息：sssORDERDETAIL_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:28:07&&消息：sss188
+
+系统运行日志&&日志时间：2015-12-30 12:28:07&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-30 12:28:07','N', 'NOT','PRE',25,0,25,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151230122807175' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid=188 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-30 12:28:07&&消息： adSELECT orderid FROM sh_store_order WHERE ordernum='20151230122807175' LIMIT 1 
+
+系统运行日志&&日志时间：2015-12-30 12:28:07&&消息：详细INSERT INTO sh_store_order_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,39,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (undefine) and c.userid=188 
+
+系统运行日志&&日志时间：2015-12-30 12:28:07&&消息：sssORDERDETAIL_FALSE
+
+系统运行日志&&日志时间：2015-12-30 12:35:02&&消息：sssOK
+
+系统运行日志&&日志时间：2015-12-30 13:29:13&&消息：sssOK
+
+系统运行日志&&日志时间：2015-12-30 13:35:32&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:43:37&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:43:37&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:45:33&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:45:33',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=
+
+系统运行日志&&日志时间：2015-12-30 13:45:33&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:45:33&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:46:32&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:46:32',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:46:32&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:46:32&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:51:36&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:51:36',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:51:36&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:51:36&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:53:50&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:53:50',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:53:50&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:53:50&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:54:11&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:54:11',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:54:11&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:54:11&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:54:55&&消息：moeny===
+
+系统运行日志&&日志时间：2015-12-30 13:54:55&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:54:55',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:54:55&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:54:55&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:56:26&&消息：SELECT orderid,money,userid FROM sh_store_order  WHERE ordernum ='20151230132913140' LIMIT 1
+
+系统运行日志&&日志时间：2015-12-30 13:56:26&&消息：moeny===
+
+系统运行日志&&日志时间：2015-12-30 13:56:26&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:56:26',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:56:26&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:56:26&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:58:03&&消息：moeny=675.00
+
+系统运行日志&&日志时间：2015-12-30 13:58:03&&消息：moeny===
+
+系统运行日志&&日志时间：2015-12-30 13:58:03&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:58:03',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:58:03&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:58:03&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:58:34&&消息：moeny=675.00
+
+系统运行日志&&日志时间：2015-12-30 13:58:34&&消息：moeny===
+
+系统运行日志&&日志时间：2015-12-30 13:58:34&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:58:34',paystate='Y',orderstate='WDELIVER',realpay=,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 13:58:34&&消息：orderid为41的订单修改状态失败！
+
+系统运行日志&&日志时间：2015-12-30 13:58:34&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 13:59:34&&消息：moeny===675.00
+
+系统运行日志&&日志时间：2015-12-30 13:59:34&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 13:59:34',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:02:01&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:02:01',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:04:21&&消息：companyPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:04:21&&消息：userShouldPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:04:21&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:04:21',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:09:30&&消息：companyPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:09:30&&消息：userShouldPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:09:30&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:09:30',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:11:04&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:04&&消息：companyPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:04&&消息：userShouldPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:04&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:11:04',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:11:46&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:46&&消息：companyPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:46&&消息：userShouldPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:11:46&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:11:46',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:13:29&&消息：companyPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:13:29&&消息：userShouldPay=0
+
+系统运行日志&&日志时间：2015-12-30 14:13:29&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:13:29',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=0 ,discountmoney =0   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:15:57&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:15:57&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:15:57&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:15:57&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:15:57&&消息：sql==UPDATE sh_store_order SET paytime='2015-12-30 14:15:57',paystate='Y',orderstate='WDELIVER',realpay=675.00,countmoney=450 ,discountmoney =225   WHERE orderid=41
+
+系统运行日志&&日志时间：2015-12-30 14:18:44&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:18:44&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:18:44&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:18:44&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:20:08&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:20:08&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:20:08&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:20:08&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:22:32&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:22:32&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:22:32&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:22:32&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:24:05&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:24:05&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:24:05&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:24:05&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:24:05&&消息：ssssss--sss
+
+系统运行日志&&日志时间：2015-12-30 14:24:34&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:24:34&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:24:34&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:24:34&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:24:34&&消息：ssssss--sss
+
+系统运行日志&&日志时间：2015-12-30 14:25:56&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:25:56&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:25:56&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:25:56&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:25:56&&消息：ssssss--sss
+
+系统运行日志&&日志时间：2015-12-30 14:27:49&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:27:49&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:27:49&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:27:49&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:28:34&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:28:34&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:28:34&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:28:34&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：-1-1
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:29:15&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance- ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,-,elsebalance=elsebalance-225,rechargebalance=rechargebalance-450,,'','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:30:59&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,-450-225,elsebalance=elsebalance-225,rechargebalance=rechargebalance-450,,'','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:33:00&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,-450-225,elsebalance=elsebalance-225,rechargebalance=rechargebalance-450,,'','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:34:32&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：-11
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,-450-225,elsebalance=elsebalance-225,rechargebalance=rechargebalance-450,,'','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:35:53&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：-11
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,-450-225,elsebalance=elsebalance-225,rechargebalance=rechargebalance-450,,'','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:37:16&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：-11
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,3930.00-450-225,2010.00-225,-450,0.00,'2015-12-30 14:44:50','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:44:50&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：-11
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：cutPruseSql==UPDATE sh_purse SET balance =balance-450-225 ,rechargebalance=rechargebalance-450,elsebalance=elsebalance-225 WHERE purseid=190
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：inPruseLogsql==INSERT INTO sh_purse_log (userID,balance,elsebalance,rechargebalance,frozenmoney,createTime,logType) VALUES (,3930.00-450-225,2010.00-225,1920.00-450,0.00,'2015-12-30 14:48:05','BUY') 
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:48:05&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:50:15&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:50:15&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 14:50:15&&消息：companyPay=225
+
+系统运行日志&&日志时间：2015-12-30 14:50:15&&消息：userShouldPay=450
+
+系统运行日志&&日志时间：2015-12-30 14:50:16&&消息：coustomid=188
+
+系统运行日志&&日志时间：2015-12-30 14:50:16&&消息：11
+
+系统运行日志&&日志时间：2015-12-30 14:50:16&&消息：
+
+系统运行日志&&日志时间：2015-12-30 14:50:16&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 14:57:55&&消息：sssOK
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：company=225
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：company=395
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：company=395
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：companyPay=440
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：userShouldPay=665
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：11
+
+系统运行日志&&日志时间：2015-12-30 15:11:33&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：company=0
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：companyPay=552.5
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：userShouldPay=552.5
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：11
+
+系统运行日志&&日志时间：2015-12-30 15:13:09&&消息：ss
+
+系统运行日志&&日志时间：2015-12-30 15:16:34&&消息：ssNOT_ENOUGH
+
+系统运行日志&&日志时间：2015-12-30 15:21:07&&消息：11
+
+系统运行日志&&日志时间：2015-12-30 15:58:24&&消息：company=250
+
+系统运行日志&&日志时间：2015-12-30 16:07:06&&消息：company=250
+
+系统运行日志&&日志时间：2015-12-30 16:13:02&&消息：companyPay=50
+
+系统运行日志&&日志时间：2015-12-30 16:13:02&&消息：companyPay=250
+
+系统运行日志&&日志时间：2015-12-30 16:13:02&&消息：companyPay=292.4999999925
+
+系统运行日志&&日志时间：2015-12-30 16:25:16&&消息：companyPay=417.4999999925
+
+系统运行日志&&日志时间：2015-12-30 16:25:16&&消息：companyPay=417.5
+
+系统运行日志&&日志时间：2015-12-30 16:25:16&&消息：userShouldPay=467.5
+
+系统运行日志&&日志时间：2015-12-30 16:25:16&&消息：companypay=417.5ssss---ssss  userShouldPay=467.5
+

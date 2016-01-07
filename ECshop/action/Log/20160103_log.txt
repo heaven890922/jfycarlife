@@ -1,0 +1,7 @@
+
+系统运行日志&&日志时间：2016-01-03 16:27:30&&消息：SELECT d.goodsid,d.num FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid  where o.orderid=59 
+
+系统运行日志&&日志时间：2016-01-03 16:27:33&&消息：SELECT d.goodsid,d.num FROM sh_store_order o JOIN sh_store_order_detail d ON o.orderid=d.orderid  where o.orderid=59 
+
+系统运行日志&&日志时间：2016-01-03 16:27:33&&消息：1
+

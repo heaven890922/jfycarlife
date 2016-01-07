@@ -1,0 +1,37 @@
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：sss20151228161701503
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 2,'2015-12-28 16:17:01','N', 'NOT','PRE',725,0,725,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151228161701503' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=20 AND a.userid=2 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：详细INSERT INTO sh_store_goods_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,31,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (1) and c.userid=2 
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：sss
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：sss20151228161701444
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 2,'2015-12-28 16:17:01','N', 'NOT','PRE',1525,0,1525,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151228161701444' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=20 AND a.userid=2 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-28 16:17:01&&消息：详细INSERT INTO sh_store_goods_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,32,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (1,3) and c.userid=2 
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：sss20151228161825338
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 2,'2015-12-28 16:18:25','N', 'NOT','PRE',725,0,725,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151228161825338' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=20 AND a.userid=2 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：详细INSERT INTO sh_store_goods_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,34,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (1) and c.userid=2 
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：sss
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：sss20151228161825776
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 2,'2015-12-28 16:18:25','N', 'NOT','PRE',1525,0,1525,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151228161825776' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=20 AND a.userid=2 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-28 16:18:25&&消息：详细INSERT INTO sh_store_goods_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,35,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (1,3) and c.userid=2 
+
+系统运行日志&&日志时间：2015-12-28 16:21:40&&消息：sss
+
+系统运行日志&&日志时间：2015-12-28 16:21:40&&消息：sss20151228162140259
+
+系统运行日志&&日志时间：2015-12-28 16:21:40&&消息：ssssINSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 2,'2015-12-28 16:21:40','N', 'NOT','PRE',1525,0,1525,0,4,'无备注',concat_ws(ar2.areaname,ar.areaname,ar1.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151228162140259' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=20 AND a.userid=2 AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-28 16:21:40&&消息：详细INSERT INTO sh_store_order_detail  (goodsid,price,orderid,num) SELECT c.gdetailid,d.dprice,36,c.snum FROM sh_store_cart c JOIN sh_store_goods_detail d ON c.gdetailid=d.detailid WHERE c.id IN (1,3) and c.userid=2 
+

@@ -1,0 +1,503 @@
+
+系统运行日志&&日志时间：2015-12-28 09:12:24&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:12:41&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:12:47&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:13:20&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:13:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:19:14&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:19:34&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:19:41&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:20:27&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:21:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 09:21:18&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:21:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 09:21:33&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:22:58&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-28 09:23:16&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 09:24:03&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 09:24:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 09:24:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:02:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:04:49&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:04:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:00&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:03&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:07&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:16&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:05:22&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:06:42&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:06:54&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:07:55&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 10:08:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:08:43&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:08:46&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:09:51&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:10:03&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:11:16&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:11:51&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:12:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:12:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:12:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:12:13&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:17:11&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:17:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:17:42&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:17:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:18:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 10:18:15&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:21:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:23:24&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:26:17&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:35:37&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 10:59:44&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:00:47&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:01:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:01:50&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:02:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:02:37&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:03:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressListAdd.php
+
+系统运行日志&&日志时间：2015-12-28 11:03:28&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:03:32&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:05:19&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:05:23&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:05:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:05:28&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:14:31&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:14:36&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:14:57&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:15:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:17:54&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:18:03&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:18:31&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:18:55&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:18:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:11&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:19&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:40&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:19:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:20:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:20:37&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:20:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:20:52&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:20:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:21:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:21:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:21:15&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:21:45&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:21:50&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:22:07&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:22:20&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:24&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:33&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:38&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:53&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:23:57&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:00&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:04&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressListEdit.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:13&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:16&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:20&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:23&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:25&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:24:28&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:25:02&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:25:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:25:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:37:09&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:37:47&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:50:12&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:50:20&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:50:46&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:51:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:52:00&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:54:08&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:54:49&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:54:53&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:54:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressListAdd.php
+
+系统运行日志&&日志时间：2015-12-28 11:55:04&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 11:55:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 11:59:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:00:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:01:41&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:14:48&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 12:14:52&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 12:14:54&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:15:04&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:15:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:15:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:16:03&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 12:39:27&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 13:34:22&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 13:34:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 13:34:30&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 13:34:36&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 13:34:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 13:35:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 13:39:50&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopAddressList.php
+
+系统运行日志&&日志时间：2015-12-28 13:39:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 14:38:23&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 14:59:20&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 14:59:26&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:00:28&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:00:34&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:00:54&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:01:02&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:01:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:01:47&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:01:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:18:05&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:18:29&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:18:37&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:19:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:19:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:19:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:19:58&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:20:17&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:20:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:20:43&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:21:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:24:47&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:24:56&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-28 15:26:37&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:26:44&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:27:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:30:32&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:30:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:30:48&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:31:17&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:32:15&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:33:12&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:33:40&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:41:53&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:42:05&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:43:50&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:45:02&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:45:05&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:45:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:45:12&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:55:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:55:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 15:55:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 15:58:43&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:03:46&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:11:32&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:13:48&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:14:42&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:15:00&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:18:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:21:38&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:23:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:23:27&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-28 16:23:31&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-28 16:23:33&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-28 16:23:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:31:58&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:32:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:32:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrder.php
+
+系统运行日志&&日志时间：2015-12-28 16:37:09&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:42:39&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 16:53:37&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopCart.php
+
+系统运行日志&&日志时间：2015-12-28 17:39:22&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:39:57&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:40:21&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:41:41&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:41:57&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:42:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:42:27&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:43:13&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:43:27&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:44:03&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:44:49&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:46:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:46:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:47:19&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:47:27&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:47:50&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:50:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:52:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:52:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:58:40&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:59:03&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 17:59:17&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:02:36&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:02:52&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:03:31&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:03:44&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:03:51&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:05:44&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:06:48&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:06:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:07:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:08:34&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:08:42&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:09:14&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:09:22&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:10:10&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:10:18&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:25:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:25:43&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:26:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:29:58&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:30:11&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:30:22&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:31:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopOrderPay.php
+
+系统运行日志&&日志时间：2015-12-28 18:38:15&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopOrderPay.php
+

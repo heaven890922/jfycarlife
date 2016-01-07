@@ -1,0 +1,433 @@
+
+系统运行日志&&日志时间：2015-12-17 09:30:40&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:33:09&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:36:02&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:38:07&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:38:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:39:50&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:40:14&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:41:07&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:41:40&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:42:29&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:42:55&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:43:17&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 09:43:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:44:30&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:45:46&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:46:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:46:49&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:48:05&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:48:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:48:55&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:49:16&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:51:08&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:53:32&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:54:03&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:54:19&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:54:42&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:54:58&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:55:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:55:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:55:46&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 09:56:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:56:38&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:57:03&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:57:29&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 09:59:17&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:00:28&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:01:19&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:01:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:02:37&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:03:13&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:04:04&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:04:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:04:33&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:19:25&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:20:11&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:20:22&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:20:24&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:20:26&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:20:36&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:20:50&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:21:32&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:21:37&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:21:41&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:21:53&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:22:08&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:22:28&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:22:31&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:22:48&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:22:52&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:22:58&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:23:01&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:23:06&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:23:15&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:28:12&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 10:28:26&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:28:38&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:28:45&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:28:49&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 10:28:55&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 11:26:31&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:27:44&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:28:52&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:29:15&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:31:51&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:34:36&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:35:50&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:36:17&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:37:54&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:43:09&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:43:25&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:43:49&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:44:31&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:44:57&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 11:53:05&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:43:33&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:44:38&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:46:04&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:46:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:48:15&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:49:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:49:14&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:50:34&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:51:06&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:51:24&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:52:02&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:52:22&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:52:41&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:53:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 13:55:12&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:00:49&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:03:07&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:05:32&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:06:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:06:45&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:07:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:08:30&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:08:43&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:09:19&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:09:44&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:09:53&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:10:05&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 14:10:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:10:22&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 14:10:23&&消息：修改的sql语句===select g.gdname,g.gddescribe,g.bigpic,d.dprice,SUM(salenum) AS totalsalenum from sh_store_goods  g LEFT  JOIN sh_store_goods_detail d ON g.gdid=d.gdid   WHERE d.state='ON'   GROUP BY g.gdid  ORDER BY dprice LIMIT 0,10  
+
+系统运行日志&&日志时间：2015-12-17 14:11:31&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:12:07&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:12:50&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:12:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:13:39&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:14:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:16:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:17:47&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:18:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:19:57&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:21:32&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:21:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:22:56&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:23:07&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:25:30&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:25:40&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:27:02&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:27:10&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 14:28:03&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:38:52&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:38:59&&消息：127.0.0.1==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:40:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:40:51&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:46:59&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:49:55&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:50:20&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:50:57&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:51:31&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:51:47&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:52:16&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:53:04&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 15:53:56&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:01:46&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:02:12&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:03:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:04:18&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:04:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:05:45&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:06:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:07:11&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:07:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:09:12&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:09:21&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:10:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:11:05&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:11:20&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:14:33&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:18:15&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:19:07&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:20:00&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:20:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:20:31&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:20:39&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:29:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:31:58&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:32:48&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:33:06&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:33:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:34:27&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:49:14&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 16:59:09&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:00:01&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:01:21&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:01:35&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:02:36&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:10:01&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:12:58&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:19:24&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:20:09&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:21:15&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:22:01&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:22:22&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:22:37&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:22:54&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:37:26&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:56:22&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:57:05&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:57:34&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:59:50&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 17:59:56&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:03:41&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:04:54&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:06:23&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:07:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:08:24&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:10:06&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:10:23&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:10:51&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:11:19&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:11:44&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:12:00&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:12:59&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:14:00&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:14:24&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:14:36&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:15:18&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:16:36&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:16:44&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:17:46&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:19:23&&消息：192.168.1.119==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:20:11&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+
+系统运行日志&&日志时间：2015-12-17 18:25:54&&消息：192.168.1.101==/jfyxcsh/ECshop/ECshopGoodsDetailIndex.php
+

@@ -1,0 +1,29 @@
+
+系统运行日志&&日志时间：2015-12-31 13:25:09&&消息：订单号为20151230162512170的订单提交退款申请失败，更改订单状态的sql为====UPDATE sh_store_order SET orderstate='FORCANCEL' WHERE ordernum='20151230162512170' AND userid =188退款申请插入sql为===INSERT INTO  sh_store_order_cancel  (orderid,reason,createtime) VALUES  47,'下村单了','2015-12-31 13:25:09' 
+
+系统运行日志&&日志时间：2015-12-31 15:27:31&&消息：订单号为undefined的订单确认收货失败，sql===UPDATE sh_store_order SET orderstate='FINISH' WHERE ordernum='undefined'
+
+系统运行日志&&日志时间：2015-12-31 18:21:45&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT ,'2015-12-31 18:21:45','N', 'NOT','PRE',745,0,745,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,,'20151231182145304' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:23:24&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT ,'2015-12-31 18:23:24','N', 'NOT','PRE',385,0,385,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,,'20151231182324450' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:25:34&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT ,'2015-12-31 18:25:34','N', 'NOT','PRE',385,0,385,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,,'20151231182534210' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:26:17&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT ,'2015-12-31 18:26:17','N', 'NOT','PRE',385,0,385,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,,'20151231182617258' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:26:52&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-31 18:26:52','N', 'NOT','PRE',385,0,385,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,,'20151231182652900' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:27:51&&消息：直接购买创建订单失败，sql===INSERT INTO sh_store_order (userid,ordertime,paystate,deliverstate,orderstate,money,discountmoney,countmoney,realpay,paytype,remarks,address,phone,`name`,expressPrice,ordernum) SELECT 188,'2015-12-31 18:27:51','N', 'NOT','PRE',385,0,385,0,4,'无备注',concat(ar2.areaname,ar1.areaname,ar.areaname,a.detailaddress) AS address,a.tel,a.`name`,25,'20151231182751197' FROM sh_store_address a JOIN sh_store_area ar  ON a.countyid=ar.areaid  JOIN sh_store_area ar1 ON a.cityid=ar1.areaid JOIN sh_store_area ar2 ON a.provinceid=ar2.areaid WHERE id=29 AND a.userid= AND delstate='N' limit 1
+
+系统运行日志&&日志时间：2015-12-31 18:30:30&&消息： adSELECT orderid FROM sh_store_order WHERE ordernum='20151231183030208' LIMIT 1 
+
+系统运行日志&&日志时间：2015-12-31 18:32:11&&消息：详细INSERT INTO sh_store_order_detail  (goodsid,price,orderid,num) values (22,360.00,50,1)  
+
+系统运行日志&&日志时间：2015-12-31 19:43:09&&消息：companyPay=527.4999999925
+
+系统运行日志&&日志时间：2015-12-31 19:43:09&&消息：companyPay=527.5
+
+系统运行日志&&日志时间：2015-12-31 19:43:09&&消息：userShouldPay=577.5
+
+系统运行日志&&日志时间：2015-12-31 19:43:09&&消息：companypay=527.5ssss---ssss  userShouldPay=577.5
+
